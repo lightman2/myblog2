@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>个人博客</title>
+  <description>用 Git 管理、用 Markdown 更新的个人空间。</description>
+  <link>/</link>
+  <item>
+  <title>Hello, Blog</title>
+  <link>posts/2026-05-27-hello.html</link>
+  <guid>posts/2026-05-27-hello.html</guid>
+  <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
+  <description>第一篇文章，用来确认这个博客的写作和发布流程。</description>
+</item>
+</channel>
+</rss>
